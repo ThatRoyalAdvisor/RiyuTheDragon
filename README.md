@@ -1,6 +1,4 @@
-## Confusing Dragon
-
-![Image-alt](https://github.com/RiyuTheDragon/RiyuTheDragon/blob/314e8f6861960380b196449f71d32740dc83ef20/Screenshot%202026-06-10%20154329.png)
+## I have no ideas to add
 
 <!--
 **RiyuTheDragon/RiyuTheDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
